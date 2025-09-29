@@ -79,9 +79,9 @@ Project proposals must be submitted, presented, and approved in advance of build
 
 **Resources**:
 
-- [How to put together a software project proposal](https://www.fool.com/the-blueprint/project-proposal/)
-- [How to Write a Software project Proposal from Rutgers](https://www.ece.rutgers.edu/%7Emarsic/Teaching/SE/proposal.html)-
-- [How to write a proposal and get what you want](https://www.process.st/how-to-write-a-proposal/)
+- [How to put together a software project proposal](https://web.archive.org/web/20230927225349/https://www.fool.com/the-ascent/small-business/project-management/articles/project-proposal/)
+- [How to Write a Software project Proposal from Rutgers](https://web.archive.org/web/20230319141443/https://www.ece.rutgers.edu/~marsic/Teaching/SE/proposal.html)
+- [How to write a proposal and get what you want](https://web.archive.org/web/20250715105232/https://www.process.st/how-to-write-a-proposal/)
 
 After your proposal is approved by your instructor, you may proceed with building your project.
 
